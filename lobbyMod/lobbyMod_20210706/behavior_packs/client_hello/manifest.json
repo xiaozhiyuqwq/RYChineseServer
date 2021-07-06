@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Come From xiaozhiyuqwq",
+        "name": "RainyatLobbyMod",
+        "uuid": "39c61ef3-72c2-4a5b-8ec2-87d80ff96cbb",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Come From xiaozhiyuqwq",
+            "type": "data",
+            "uuid": "573beb45-36b4-4d17-9593-c2728a3a32cf",
+            "version": [0, 0, 1]
+        }
+    ]
+}

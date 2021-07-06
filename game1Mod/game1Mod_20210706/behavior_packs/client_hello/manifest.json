@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Come From xiaozhiyuqwq",
+        "name": "RainyatGame1Mod",
+        "uuid": "798d5a75-db1f-47bc-87ce-61c849774a4f",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "Come From xiaozhiyuqwq",
+            "type": "data",
+            "uuid": "2d30d6b8-7357-4281-821b-faea08bb7df7",
+            "version": [0, 0, 1]
+        }
+    ]
+}
